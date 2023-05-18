@@ -1,0 +1,1 @@
+npm i nodemon express passport cors cookie-session
